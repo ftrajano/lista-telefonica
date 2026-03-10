@@ -1,0 +1,28 @@
+{
+  "totalPorCategoria": {
+    "medico": 464,
+    "advogado": 228,
+    "contador": 230
+  },
+  "totalPorBairro": {
+    "Piedade": 152,
+    "Boa Viagem": 11,
+    "Aflitos": 125,
+    "Graças": 102,
+    "Ibura": 49,
+    "Santo Amaro": 89,
+    "Santo Antônio": 83,
+    "Boa Vista": 57,
+    "São José": 25,
+    "Madalena": 75,
+    "Encruzilhada": 83,
+    "Imbiribeira": 71
+  },
+  "totalPorSubcategoria": {
+    "Médicos": 239,
+    "Hospitais": 225,
+    "Advogados": 228,
+    "Contadores": 230
+  },
+  "dataGeracao": "2026-03-01T22:12:16.266Z"
+}

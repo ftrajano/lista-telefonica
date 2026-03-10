@@ -1,0 +1,3294 @@
+{
+  "total_socios_unicos": 205,
+  "investidores_multiplas_empresas": 114,
+  "investidores": {
+    "EDSON GOMES DA SILVA": [
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE EDIFÍCIOS"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE ESTAÇÕES E REDES DE TELECOMUNICAÇÕES"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONST DE REDES DE ABAST DE ÁGUA, COL DE ESGOT E CONST CORREL, EXC OBRAS DE IRRIGA"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "MONTAGEM DE ESTRUTURAS METÁLICAS"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE INSTALAÇÕES ESPORTIVAS E RECREATIVAS"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "DEMOLIÇÃO DE EDIFÍCIOS E OUTRAS ESTRUTURAS"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "PREPARAÇÃO DE CANTEIRO E LIMPEZA DE TERRENO"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE TERRAPLENAGEM"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ALVENARIA"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES DE SISTEMA DE PREVENÇÃO CONTRA INCÊNDIO"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "IMPERMEABILIZAÇÃO EM OBRAS DE ENGENHARIA CIVIL"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE PINTURA DE EDIFÍCIOS EM GERAL"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OUTRAS OBRAS DE ACABAMENTO DA CONSTRUÇÃO"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "SUPORTE TECNICO, MANUTENCAO E OUTROS SERVICOS EM TECNOLOGIA DA INFORMACAO"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE ENGENHARIA"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE RODOVIAS E FERROVIAS"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+      },
+      {
+        "empresa": "VEM SERVICOS",
+        "cnpj": "33370252000161",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "ADMINISTRAÇÃO DE OBRAS"
+      }
+    ],
+    "CINTHIA CRISTINA OLIVEIRA DA COSTA E SILVA": [
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE IRRIGAÇÃO"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE EDIFÍCIOS"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE BARRAGENS E REPRESAS PARA GERAÇÃO DE ENERGIA ELÉTRICA"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE ESTAÇÕES E REDES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "MANUTENÇÃO DE REDES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONST DE REDES DE ABAST DE ÁGUA, COL DE ESGOT E CONST CORREL, EXC OBRAS DE IRRIGA"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE REDES DE TRANSPORTES POR DUTOS, EXCETO PARA ÁGUA E ESGOTO"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "MONTAGEM DE ESTRUTURAS METÁLICAS"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE MONTAGEM INDUSTRIAL"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE INSTALAÇÕES ESPORTIVAS E RECREATIVAS"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OUTRAS OBRAS DE ENGENHARIA CIVIL NÃO ESPECIFICADAS ANTERIORMENTE"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "DEMOLIÇÃO DE EDIFÍCIOS E OUTRAS ESTRUTURAS"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OUTRAS OBRAS DE ACABAMENTO DA CONSTRUÇÃO"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE ENGENHARIA"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE RODOVIAS E FERROVIAS"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS PORTUÁRIAS, MARÍTIMAS E FLUVIAIS"
+      },
+      {
+        "empresa": "3C ENGENHARIA",
+        "cnpj": "35286462000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "ADMINISTRAÇÃO DE OBRAS"
+      }
+    ],
+    "DIOGO CARVALHO DE OLIVEIRA": [
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE EDIFÍCIOS"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "DEMOLIÇÃO DE EDIFÍCIOS E OUTRAS ESTRUTURAS"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ALVENARIA"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES DE SISTEMA DE PREVENÇÃO CONTRA INCÊNDIO"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "IMPERMEABILIZAÇÃO EM OBRAS DE ENGENHARIA CIVIL"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ACABAMENTO EM GESSO E ESTUQUE"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE PINTURA DE EDIFÍCIOS EM GERAL"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "APLICAÇÃO DE REVESTIMENTOS E DE RESINAS EM INTERIORES E EXTERIORES"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "MONTAGEM E DESMONTAGEM DE ANDAIMES E OUTRAS ESTRUTURAS TEMPORÁRIAS"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE ENGENHARIA"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE RODOVIAS E FERROVIAS"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "ADMINISTRAÇÃO DE OBRAS"
+      }
+    ],
+    "CARLOS AUGUSTO BARROS ESTIMA": [
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE EDIFÍCIOS"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "DEMOLIÇÃO DE EDIFÍCIOS E OUTRAS ESTRUTURAS"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ALVENARIA"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES DE SISTEMA DE PREVENÇÃO CONTRA INCÊNDIO"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "IMPERMEABILIZAÇÃO EM OBRAS DE ENGENHARIA CIVIL"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ACABAMENTO EM GESSO E ESTUQUE"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE PINTURA DE EDIFÍCIOS EM GERAL"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "APLICAÇÃO DE REVESTIMENTOS E DE RESINAS EM INTERIORES E EXTERIORES"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "MONTAGEM E DESMONTAGEM DE ANDAIMES E OUTRAS ESTRUTURAS TEMPORÁRIAS"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE ENGENHARIA"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE RODOVIAS E FERROVIAS"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+      },
+      {
+        "empresa": "ECO ENGENHARIA",
+        "cnpj": "07145653000108",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "ADMINISTRAÇÃO DE OBRAS"
+      }
+    ],
+    "BENJAMIN PINTO DE CAMPOS NETO": [
+      {
+        "empresa": "BENCAMP",
+        "cnpj": "47278156000100",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "CONFECÇÃO DE PEÇAS DO VESTUÁRIO, EXCETO ROUPAS ÍNTIMAS E AS CONFEC SOB MEDIDA"
+      },
+      {
+        "empresa": "BENCAMP",
+        "cnpj": "47278156000100",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "CONFECÇÃO DE ROUPAS PROFISSIONAIS, EXCETO SOB MEDIDA"
+      },
+      {
+        "empresa": "BENCAMP",
+        "cnpj": "47278156000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES DE SISTEMA DE PREVENÇÃO CONTRA INCÊNDIO"
+      },
+      {
+        "empresa": "BENCAMP",
+        "cnpj": "47278156000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ACABAMENTO EM GESSO E ESTUQUE"
+      },
+      {
+        "empresa": "BENCAMP",
+        "cnpj": "47278156000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE PINTURA DE EDIFÍCIOS EM GERAL"
+      },
+      {
+        "empresa": "BENCAMP",
+        "cnpj": "47278156000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OUTRAS OBRAS DE ACABAMENTO DA CONSTRUÇÃO"
+      },
+      {
+        "empresa": "BENCAMP",
+        "cnpj": "47278156000100",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": "BENCAMP",
+        "cnpj": "47278156000100",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "OUTRAS ATIVIDADES DE TELECOMUNICAÇÕES NÃO ESPECIFICADAS ANTERIORMENTE"
+      },
+      {
+        "empresa": "BENCAMP",
+        "cnpj": "47278156000100",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES E DE EQUIPAMENTOS PERIFÉRICOS"
+      },
+      {
+        "empresa": "BENCAMP",
+        "cnpj": "47278156000100",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "PROVEDORES DE ACESSO ÀS REDES DE COMUNICAÇÕES"
+      },
+      {
+        "empresa": "BENCAMP",
+        "cnpj": "47278156000100",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+      }
+    ],
+    "JOELMA MARQUES DA SILVA": [
+      {
+        "empresa": "CJR CABINES DE PINTURA",
+        "cnpj": "18203320000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ESTRUTURAS METÁLICAS"
+      },
+      {
+        "empresa": "CJR CABINES DE PINTURA",
+        "cnpj": "18203320000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE FERRAMENTAS"
+      },
+      {
+        "empresa": "CJR CABINES DE PINTURA",
+        "cnpj": "18203320000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ESTUFAS E FORNOS ELÉTRICOS P/ FINS INDUSTRIAIS, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "CJR CABINES DE PINTURA",
+        "cnpj": "18203320000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQ E APAR DE REFRIG E VENTILA P/ USO IND E COM, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "CJR CABINES DE PINTURA",
+        "cnpj": "18203320000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQ E EQUIP P/ SANEAMENTO BÁSICO E AMBIENTAL, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "CJR CABINES DE PINTURA",
+        "cnpj": "18203320000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTRAS MÁQUINAS E EQUIP DE USO GERAL N/ ESP ANT, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "CJR CABINES DE PINTURA",
+        "cnpj": "18203320000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQUINAS-FERRAMENTA, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "CJR CABINES DE PINTURA",
+        "cnpj": "18203320000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQ E EQUIP P/ USO IND ESPECÍFICO N/ ESP ANTER, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "CJR CABINES DE PINTURA",
+        "cnpj": "18203320000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ARTIGOS DE SERRALHERIA, EXCETO ESQUADRIAS"
+      }
+    ],
+    "JHADSON MOURA SILVA": [
+      {
+        "empresa": "BARATACO MATERIAIS DE CONSTRUCAO",
+        "cnpj": "36496959000107",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "MONTAGEM DE ESTRUTURAS METÁLICAS"
+      },
+      {
+        "empresa": "BARATACO MATERIAIS DE CONSTRUCAO",
+        "cnpj": "36496959000107",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE MONTAGEM INDUSTRIAL"
+      },
+      {
+        "empresa": "BARATACO MATERIAIS DE CONSTRUCAO",
+        "cnpj": "36496959000107",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "DEMOLIÇÃO DE EDIFÍCIOS E OUTRAS ESTRUTURAS"
+      },
+      {
+        "empresa": "BARATACO MATERIAIS DE CONSTRUCAO",
+        "cnpj": "36496959000107",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "PREPARAÇÃO DE CANTEIRO E LIMPEZA DE TERRENO"
+      },
+      {
+        "empresa": "BARATACO MATERIAIS DE CONSTRUCAO",
+        "cnpj": "36496959000107",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ALVENARIA"
+      },
+      {
+        "empresa": "BARATACO MATERIAIS DE CONSTRUCAO",
+        "cnpj": "36496959000107",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "IMPERMEABILIZAÇÃO EM OBRAS DE ENGENHARIA CIVIL"
+      },
+      {
+        "empresa": "BARATACO MATERIAIS DE CONSTRUCAO",
+        "cnpj": "36496959000107",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE PINTURA DE EDIFÍCIOS EM GERAL"
+      },
+      {
+        "empresa": "BARATACO MATERIAIS DE CONSTRUCAO",
+        "cnpj": "36496959000107",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OUTRAS OBRAS DE ACABAMENTO DA CONSTRUÇÃO"
+      },
+      {
+        "empresa": "BARATACO MATERIAIS DE CONSTRUCAO",
+        "cnpj": "36496959000107",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+      }
+    ],
+    "KASSANDRA SEVERIO DA SILVA": [
+      {
+        "empresa": "TOP KA COMERCIO E SERVICOS",
+        "cnpj": "48340738000124",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "CONFECÇÃO DE PEÇAS DO VESTUÁRIO, EXCETO ROUPAS ÍNTIMAS E AS CONFEC SOB MEDIDA"
+      },
+      {
+        "empresa": "TOP KA COMERCIO E SERVICOS",
+        "cnpj": "48340738000124",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE INSTALAÇÕES ESPORTIVAS E RECREATIVAS"
+      },
+      {
+        "empresa": "TOP KA COMERCIO E SERVICOS",
+        "cnpj": "48340738000124",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OUTRAS OBRAS DE ENGENHARIA CIVIL NÃO ESPECIFICADAS ANTERIORMENTE"
+      },
+      {
+        "empresa": "TOP KA COMERCIO E SERVICOS",
+        "cnpj": "48340738000124",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE PINTURA DE EDIFÍCIOS EM GERAL"
+      },
+      {
+        "empresa": "TOP KA COMERCIO E SERVICOS",
+        "cnpj": "48340738000124",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OUTRAS OBRAS DE ACABAMENTO DA CONSTRUÇÃO"
+      },
+      {
+        "empresa": "TOP KA COMERCIO E SERVICOS",
+        "cnpj": "48340738000124",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO NÃO ESPECIFICADOS ANTERIORMENTE"
+      },
+      {
+        "empresa": "TOP KA COMERCIO E SERVICOS",
+        "cnpj": "48340738000124",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOV COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+      },
+      {
+        "empresa": "TOP KA COMERCIO E SERVICOS",
+        "cnpj": "48340738000124",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES E DE EQUIPAMENTOS PERIFÉRICOS"
+      },
+      {
+        "empresa": "TOP KA COMERCIO E SERVICOS",
+        "cnpj": "48340738000124",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+      }
+    ],
+    "PAULA OLIVEIRA DE MARCHI": [
+      {
+        "empresa": "SOPOLPAS",
+        "cnpj": "08690652000107",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE CONSERVAS DE FRUTAS"
+      },
+      {
+        "empresa": "SOPOLPAS",
+        "cnpj": "08690652000107",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE SUCOS CONCENTRADOS DE FRUTAS, HORTALIÇAS E LEGUMES"
+      },
+      {
+        "empresa": "SOPOLPAS",
+        "cnpj": "08690652000107",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "MOAGEM E FABRICAÇÃO DE PRODUTOS DE ORIGEM VEGETAL NÃO ESPECIFICADOS ANTERIORMENTE"
+      },
+      {
+        "empresa": "SOPOLPAS",
+        "cnpj": "08690652000107",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE SORVETES E OUTROS GELADOS COMESTÍVEIS"
+      },
+      {
+        "empresa": "SOPOLPAS",
+        "cnpj": "08690652000107",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE GELO COMUM"
+      },
+      {
+        "empresa": "SOPOLPAS",
+        "cnpj": "08690652000107",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE VINHO"
+      },
+      {
+        "empresa": "SOPOLPAS",
+        "cnpj": "08690652000107",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ÁGUAS ENVASADAS"
+      },
+      {
+        "empresa": "SOPOLPAS",
+        "cnpj": "08690652000107",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE REFRESCOS, XAROPES E PÓS PARA REFRESCOS, EXC REFRESCOS DE FRUTAS"
+      }
+    ],
+    "FABIO LOPES LEITE": [
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "Web design"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "Desenvolvimento de programas de computador sob encomenda"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR CUSTOMIZÁVEIS"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "SUPORTE TECNICO, MANUTENCAO E OUTROS SERVICOS EM TECNOLOGIA DA INFORMACAO"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "TRATAMENTO DE DADOS, PROVEDORES DE SERV DE APLIC E SERV DE HOSPED NA INTERNET"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "PORTAIS, PROVEDORES DE CONTEÚDO E OUTROS SERVIÇOS DE INFORMAÇÃO NA INTERNET"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR NÃO-CUSTOMIZÁVEIS"
+      }
+    ],
+    "LUIZ CARLOS BATISTA DE AZEVEDO": [
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "Web design"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "Desenvolvimento de programas de computador sob encomenda"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR CUSTOMIZÁVEIS"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "SUPORTE TECNICO, MANUTENCAO E OUTROS SERVICOS EM TECNOLOGIA DA INFORMACAO"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "TRATAMENTO DE DADOS, PROVEDORES DE SERV DE APLIC E SERV DE HOSPED NA INTERNET"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "PORTAIS, PROVEDORES DE CONTEÚDO E OUTROS SERVIÇOS DE INFORMAÇÃO NA INTERNET"
+      },
+      {
+        "empresa": "ASTRON CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+        "cnpj": "40628369000168",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR NÃO-CUSTOMIZÁVEIS"
+      }
+    ],
+    "JOSE GONCALVES DANTAS": [
+      {
+        "empresa": "EXPO-METAL",
+        "cnpj": "24563710000198",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ESTRUTURAS METÁLICAS"
+      },
+      {
+        "empresa": "EXPO-METAL",
+        "cnpj": "24563710000198",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE TANQUES, RESERVATÓRIOS METÁLICOS E CALDEIRAS PARA AQUEC CENTRAL"
+      },
+      {
+        "empresa": "EXPO-METAL",
+        "cnpj": "24563710000198",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÓVEIS COM PREDOMINÂNCIA DE METAL"
+      },
+      {
+        "empresa": "EXPO-METAL",
+        "cnpj": "24563710000198",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "MONTAGEM DE ESTRUTURAS METÁLICAS"
+      },
+      {
+        "empresa": "EXPO-METAL",
+        "cnpj": "24563710000198",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE EST PRÉ-MOLDADAS DE CONCRETO ARMADO, EM SÉRIE E SOB ENCOMENDA"
+      },
+      {
+        "empresa": "GD LOCACOES",
+        "cnpj": "41470465000193",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "LOTEAMENTO DE IMOVEIS PROPRIOS"
+      },
+      {
+        "empresa": "GD LOCACOES",
+        "cnpj": "41470465000193",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE EDIFÍCIOS"
+      },
+      {
+        "empresa": "GD LOCACOES",
+        "cnpj": "41470465000193",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "COMPRA E VENDA DE IMÓVEIS PRÓPRIOS"
+      }
+    ],
+    "ERIKA DOS SANTOS DA SILVEIRA": [
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ARTEFATOS DE MATERIAL PLÁSTICO PARA USO PESSOAL E DOMÉSTICO"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ARTIGOS DE VIDRO"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "PRODUÇÃO DE LAMINADOS DE ALUMÍNIO"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "METALURGIA DE OUTROS METAIS NÃO-FERROSOS E SUAS LIGAS NÃO ESPECIF ANTERIORMENTE"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FUNDIÇÃO DE METAIS NÃO-FERROSOS E SUAS LIGAS"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ESQUADRIAS DE METAL"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQ E APAR DE REFRIG E VENTILA P/ USO IND E COM, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTRAS PEÇAS E ACESSÓRIOS PARA VEÍC AUTOMOT N/ ESP ANTERIORMENTE"
+      }
+    ],
+    "JULYANA DE OLIVEIRA SOBREIRA": [
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ARTEFATOS DE MATERIAL PLÁSTICO PARA USO PESSOAL E DOMÉSTICO"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ARTIGOS DE VIDRO"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "PRODUÇÃO DE LAMINADOS DE ALUMÍNIO"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "METALURGIA DE OUTROS METAIS NÃO-FERROSOS E SUAS LIGAS NÃO ESPECIF ANTERIORMENTE"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FUNDIÇÃO DE METAIS NÃO-FERROSOS E SUAS LIGAS"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ESQUADRIAS DE METAL"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQ E APAR DE REFRIG E VENTILA P/ USO IND E COM, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "METALFLEX",
+        "cnpj": "08697875000104",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTRAS PEÇAS E ACESSÓRIOS PARA VEÍC AUTOMOT N/ ESP ANTERIORMENTE"
+      }
+    ],
+    "EMMANUEL PEREIRA SANTOS": [
+      {
+        "empresa": "AMYNIT",
+        "cnpj": "01822864000151",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE EDIFÍCIOS"
+      },
+      {
+        "empresa": "AMYNIT",
+        "cnpj": "01822864000151",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "DEMOLIÇÃO DE EDIFÍCIOS E OUTRAS ESTRUTURAS"
+      },
+      {
+        "empresa": "AMYNIT",
+        "cnpj": "01822864000151",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ALVENARIA"
+      },
+      {
+        "empresa": "AMYNIT",
+        "cnpj": "01822864000151",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ACABAMENTO EM GESSO E ESTUQUE"
+      },
+      {
+        "empresa": "AMYNIT",
+        "cnpj": "01822864000151",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE PINTURA DE EDIFÍCIOS EM GERAL"
+      },
+      {
+        "empresa": "AMYNIT",
+        "cnpj": "01822864000151",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OUTRAS OBRAS DE ACABAMENTO DA CONSTRUÇÃO"
+      },
+      {
+        "empresa": "AMYNIT",
+        "cnpj": "01822864000151",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+      },
+      {
+        "empresa": "AMYNIT",
+        "cnpj": "01822864000151",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "ADMINISTRAÇÃO DE OBRAS"
+      }
+    ],
+    "CARLOS ALBERTO GUEIROS JUNIOR": [
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, C/ ITINER FIXO, INTERMUNIC EM REGIÃO METROPOLITANA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOV COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, S/ REG DE FRETAM, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, INTERESTADUAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "12601233000200",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      }
+    ],
+    "MARJORIE GUEIROS FILIZOLA": [
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, C/ ITINER FIXO, INTERMUNIC EM REGIÃO METROPOLITANA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOV COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, S/ REG DE FRETAM, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, INTERESTADUAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "12601233000200",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      }
+    ],
+    "MARGARETH MONTEIRO GUEIROS PACHECO": [
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, C/ ITINER FIXO, INTERMUNIC EM REGIÃO METROPOLITANA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOV COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, S/ REG DE FRETAM, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, INTERESTADUAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "12601233000200",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      }
+    ],
+    "MCM PARTICIPACOES E ADMINISTRACAO S/A": [
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, C/ ITINER FIXO, INTERMUNIC EM REGIÃO METROPOLITANA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOV COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, S/ REG DE FRETAM, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, INTERESTADUAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "12601233000200",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      }
+    ],
+    "KENNY PEREIRA DE SA RODRIGUES": [
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PROFISSIONAIS DA NUTRIÇÃO"
+      },
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PSICOLOGIA E PSICANÁLISE"
+      },
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE FISIOTERAPIA"
+      },
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE TERAPIA OCUPACIONAL"
+      },
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE FONOAUDIOLOGIA"
+      },
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PRÁTICAS INTEGRATIVAS E COMPLEMENTARES EM SAÚDE HUMANA"
+      },
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE FORNEC DE INFRA-ESTRUTURA DE APOIO E ASSIST A PACIENTE NO DOMICÍLIO"
+      }
+    ],
+    "ANDRE LUIZ GOUVEIA DE OLIVEIRA": [
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PROFISSIONAIS DA NUTRIÇÃO"
+      },
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PSICOLOGIA E PSICANÁLISE"
+      },
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE FISIOTERAPIA"
+      },
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE TERAPIA OCUPACIONAL"
+      },
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE FONOAUDIOLOGIA"
+      },
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PRÁTICAS INTEGRATIVAS E COMPLEMENTARES EM SAÚDE HUMANA"
+      },
+      {
+        "empresa": "MENTES BRILHANTES",
+        "cnpj": "35826368000198",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE FORNEC DE INFRA-ESTRUTURA DE APOIO E ASSIST A PACIENTE NO DOMICÍLIO"
+      }
+    ],
+    "TARCISIO GOMES DE LEMOS": [
+      {
+        "empresa": "ONLINE TELECOM",
+        "cnpj": "16619765000144",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES DE SISTEMA DE PREVENÇÃO CONTRA INCÊNDIO"
+      },
+      {
+        "empresa": "ONLINE TELECOM",
+        "cnpj": "16619765000144",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇOS DE TELECOMUNICAÇÕES POR FIO NÃO ESPECIFICADOS ANTERIORMENTE"
+      },
+      {
+        "empresa": "ONLINE TELECOM",
+        "cnpj": "16619765000144",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "OUTRAS ATIVIDADES DE TELECOMUNICAÇÕES NÃO ESPECIFICADAS ANTERIORMENTE"
+      },
+      {
+        "empresa": "ONLINE TELECOM",
+        "cnpj": "16619765000144",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR CUSTOMIZÁVEIS"
+      },
+      {
+        "empresa": "ONLINE TELECOM",
+        "cnpj": "16619765000144",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "SUPORTE TECNICO, MANUTENCAO E OUTROS SERVICOS EM TECNOLOGIA DA INFORMACAO"
+      },
+      {
+        "empresa": "ONLINE TELECOM",
+        "cnpj": "16619765000144",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE ENGENHARIA"
+      },
+      {
+        "empresa": "ONLINE TELECOM",
+        "cnpj": "16619765000144",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR NÃO-CUSTOMIZÁVEIS"
+      }
+    ],
+    "ERICK FERNANDO DA SILVA": [
+      {
+        "empresa": "AVANCAR ENGENHARIA",
+        "cnpj": "31290368000165",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE EDIFÍCIOS"
+      },
+      {
+        "empresa": "AVANCAR ENGENHARIA",
+        "cnpj": "31290368000165",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE ESTAÇÕES E REDES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA"
+      },
+      {
+        "empresa": "AVANCAR ENGENHARIA",
+        "cnpj": "31290368000165",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE ESTAÇÕES E REDES DE TELECOMUNICAÇÕES"
+      },
+      {
+        "empresa": "AVANCAR ENGENHARIA",
+        "cnpj": "31290368000165",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE MONTAGEM INDUSTRIAL"
+      },
+      {
+        "empresa": "AVANCAR ENGENHARIA",
+        "cnpj": "31290368000165",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE INSTALAÇÕES ESPORTIVAS E RECREATIVAS"
+      },
+      {
+        "empresa": "AVANCAR ENGENHARIA",
+        "cnpj": "31290368000165",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE ENGENHARIA"
+      },
+      {
+        "empresa": "AVANCAR ENGENHARIA",
+        "cnpj": "31290368000165",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "ADMINISTRAÇÃO DE OBRAS"
+      }
+    ],
+    "CARLOS ALBERTO GUEIROS NETO": [
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, C/ ITINER FIXO, INTERMUNIC EM REGIÃO METROPOLITANA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOV COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, S/ REG DE FRETAM, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, INTERESTADUAL"
+      }
+    ],
+    "VITORIA VIEIRA DE MELLO GUEIROS FLORENCIO": [
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, C/ ITINER FIXO, INTERMUNIC EM REGIÃO METROPOLITANA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOV COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, S/ REG DE FRETAM, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, INTERESTADUAL"
+      }
+    ],
+    "MARCELLA GUEIROS FILIZOLA RAMOS": [
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, C/ ITINER FIXO, INTERMUNIC EM REGIÃO METROPOLITANA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOV COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, S/ REG DE FRETAM, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, INTERESTADUAL"
+      }
+    ],
+    "MANUELLA GUEIROS FILIZOLA ALVES": [
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, C/ ITINER FIXO, INTERMUNIC EM REGIÃO METROPOLITANA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOV COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, S/ REG DE FRETAM, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, INTERESTADUAL"
+      }
+    ],
+    "MARILIA GUEIROS PACHECO ROMEIRA DE SA FERREIRA": [
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, C/ ITINER FIXO, INTERMUNIC EM REGIÃO METROPOLITANA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOV COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, S/ REG DE FRETAM, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, INTERESTADUAL"
+      }
+    ],
+    "EDUARDO GUEIROS PACHECO": [
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, C/ ITINER FIXO, INTERMUNIC EM REGIÃO METROPOLITANA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOV COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, S/ REG DE FRETAM, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, INTERESTADUAL"
+      }
+    ],
+    "MATEUS GUEIROS PACHECO": [
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, C/ ITINER FIXO, INTERMUNIC EM REGIÃO METROPOLITANA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOV COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, S/ REG DE FRETAM, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "02076111000107",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, INTERESTADUAL"
+      }
+    ],
+    "SEBASTIAO VELOSO FREIRE": [
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE EXAMES COMPLEMENTARES"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE PROCEDIMENTOS CIRÚRGICOS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE ODONTOLÓGICA"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE FISIOTERAPIA"
+      }
+    ],
+    "ADAUTO PEREIRA DE VASCONCELOS": [
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE EXAMES COMPLEMENTARES"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE PROCEDIMENTOS CIRÚRGICOS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE ODONTOLÓGICA"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE FISIOTERAPIA"
+      }
+    ],
+    "MICKELINY MIRTES DE SENA": [
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE EXAMES COMPLEMENTARES"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE PROCEDIMENTOS CIRÚRGICOS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE ODONTOLÓGICA"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE FISIOTERAPIA"
+      }
+    ],
+    "VANESSA SIQUEIRA PORTELA GOMES DE ASSIS": [
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE EXAMES COMPLEMENTARES"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE PROCEDIMENTOS CIRÚRGICOS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE ODONTOLÓGICA"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE FISIOTERAPIA"
+      }
+    ],
+    "MARIA DE FATIMA CARVALHO SOUTO MAIOR": [
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE EXAMES COMPLEMENTARES"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE PROCEDIMENTOS CIRÚRGICOS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE ODONTOLÓGICA"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "MAX SAUDE",
+        "cnpj": "03226262000167",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE FISIOTERAPIA"
+      }
+    ],
+    "ANTONIO MARCOS JOSE DE LIMA": [
+      {
+        "empresa": "LIMA REIS ENGENHARIA",
+        "cnpj": "49018091000181",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ALVENARIA"
+      },
+      {
+        "empresa": "LIMA REIS ENGENHARIA",
+        "cnpj": "49018091000181",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ACABAMENTO EM GESSO E ESTUQUE"
+      },
+      {
+        "empresa": "LIMA REIS ENGENHARIA",
+        "cnpj": "49018091000181",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE PINTURA DE EDIFÍCIOS EM GERAL"
+      },
+      {
+        "empresa": "LIMA REIS ENGENHARIA",
+        "cnpj": "49018091000181",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "APLICAÇÃO DE REVESTIMENTOS E DE RESINAS EM INTERIORES E EXTERIORES"
+      },
+      {
+        "empresa": "LIMA REIS ENGENHARIA",
+        "cnpj": "49018091000181",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE ENGENHARIA"
+      },
+      {
+        "empresa": "LIMA REIS ENGENHARIA",
+        "cnpj": "49018091000181",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+      }
+    ],
+    "GISELE NONATO DOS REIS": [
+      {
+        "empresa": "LIMA REIS ENGENHARIA",
+        "cnpj": "49018091000181",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ALVENARIA"
+      },
+      {
+        "empresa": "LIMA REIS ENGENHARIA",
+        "cnpj": "49018091000181",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ACABAMENTO EM GESSO E ESTUQUE"
+      },
+      {
+        "empresa": "LIMA REIS ENGENHARIA",
+        "cnpj": "49018091000181",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE PINTURA DE EDIFÍCIOS EM GERAL"
+      },
+      {
+        "empresa": "LIMA REIS ENGENHARIA",
+        "cnpj": "49018091000181",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "APLICAÇÃO DE REVESTIMENTOS E DE RESINAS EM INTERIORES E EXTERIORES"
+      },
+      {
+        "empresa": "LIMA REIS ENGENHARIA",
+        "cnpj": "49018091000181",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE ENGENHARIA"
+      },
+      {
+        "empresa": "LIMA REIS ENGENHARIA",
+        "cnpj": "49018091000181",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+      }
+    ],
+    "ERIVAN DA SILVA CORREIA": [
+      {
+        "empresa": "GRAFICA E EDITORA CORREIA",
+        "cnpj": "53848980000143",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "CONFECÇÃO DE PEÇAS DO VESTUÁRIO, EXCETO ROUPAS ÍNTIMAS E AS CONFEC SOB MEDIDA"
+      },
+      {
+        "empresa": "GRAFICA E EDITORA CORREIA",
+        "cnpj": "53848980000143",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "CONFECÇÃO DE ROUPAS PROFISSIONAIS, EXCETO SOB MEDIDA"
+      },
+      {
+        "empresa": "GRAFICA E EDITORA CORREIA",
+        "cnpj": "53848980000143",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "MONTAGEM E DESMONTAGEM DE ANDAIMES E OUTRAS ESTRUTURAS TEMPORÁRIAS"
+      },
+      {
+        "empresa": "GRAFICA E EDITORA CORREIA",
+        "cnpj": "53848980000143",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "ATIVIDADES DE RÁDIO"
+      },
+      {
+        "empresa": "GRAFICA E EDITORA CORREIA",
+        "cnpj": "53848980000143",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "OUTRAS ATIVIDADES DE TELECOMUNICAÇÕES NÃO ESPECIFICADAS ANTERIORMENTE"
+      }
+    ],
+    "FABIANA ALVES MURTA": [
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE PRODUTOS PERIGOSOS"
+      },
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "CARGA E DESCARGA"
+      },
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇOS DE MALOTE NÃO REALIZADOS PELO CORREIO NACIONAL"
+      }
+    ],
+    "ANDERSON MARCHI DAVO": [
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE PRODUTOS PERIGOSOS"
+      },
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "CARGA E DESCARGA"
+      },
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇOS DE MALOTE NÃO REALIZADOS PELO CORREIO NACIONAL"
+      }
+    ],
+    "ADRIANA APARECIDA MARCHI DAVO VALENCA": [
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE PRODUTOS PERIGOSOS"
+      },
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "CARGA E DESCARGA"
+      },
+      {
+        "empresa": "JAD TAXI AEREO LTDA",
+        "cnpj": "02017835000422",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇOS DE MALOTE NÃO REALIZADOS PELO CORREIO NACIONAL"
+      }
+    ],
+    "WELLINGTON SAMI DA SILVA RAMOS DE LA PLAZE": [
+      {
+        "empresa": "ACAI COMBATE",
+        "cnpj": "45347469000130",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE SUCOS CONCENTRADOS DE FRUTAS, HORTALIÇAS E LEGUMES"
+      },
+      {
+        "empresa": "ACAI COMBATE",
+        "cnpj": "45347469000130",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE SORVETES E OUTROS GELADOS COMESTÍVEIS"
+      },
+      {
+        "empresa": "ACAI COMBATE",
+        "cnpj": "45347469000130",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTROS PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE"
+      },
+      {
+        "empresa": "ACAI COMBATE",
+        "cnpj": "45347469000130",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "ACAI COMBATE",
+        "cnpj": "45347469000130",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      }
+    ],
+    "WILLIAM DA SILVA PEREIRA": [
+      {
+        "empresa": ".",
+        "cnpj": "12038411000155",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "12038411000155",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "12038411000155",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE MUDANÇAS"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "12038411000155",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "CARGA E DESCARGA"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "12038411000155",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "ORGANIZAÇÃO LOGÍSTICA DO TRANSPORTE DE CARGA"
+      }
+    ],
+    "PAULO ANDRE DE LIMA E SILVA": [
+      {
+        "empresa": "P P ESTRUTURAS METALICAS",
+        "cnpj": "19877464000109",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ARTIGOS DE VIDRO"
+      },
+      {
+        "empresa": "P P ESTRUTURAS METALICAS",
+        "cnpj": "19877464000109",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ESTRUTURAS METÁLICAS"
+      },
+      {
+        "empresa": "P P ESTRUTURAS METALICAS",
+        "cnpj": "19877464000109",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE CONFECÇÃO DE ARMAÇÕES METÁLICAS PARA A CONSTRUÇÃO"
+      },
+      {
+        "empresa": "P P ESTRUTURAS METALICAS",
+        "cnpj": "19877464000109",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ACABAMENTO EM GESSO E ESTUQUE"
+      },
+      {
+        "empresa": "P P ESTRUTURAS METALICAS",
+        "cnpj": "19877464000109",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE ENGENHARIA"
+      }
+    ],
+    "MARCIO JOAO VIANA": [
+      {
+        "empresa": "FACO ENGENHARA",
+        "cnpj": "26761685000182",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE EDIFÍCIOS"
+      },
+      {
+        "empresa": "FACO ENGENHARA",
+        "cnpj": "26761685000182",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE FUNDAÇÕES"
+      },
+      {
+        "empresa": "FACO ENGENHARA",
+        "cnpj": "26761685000182",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE TERRAPLENAGEM"
+      },
+      {
+        "empresa": "FACO ENGENHARA",
+        "cnpj": "26761685000182",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE PREPARAÇÃO DO TERRENO NÃO ESPECIFICADOS ANTERIORMENTE"
+      },
+      {
+        "empresa": "FACO ENGENHARA",
+        "cnpj": "26761685000182",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE RODOVIAS E FERROVIAS"
+      }
+    ],
+    "MAURILIO PEREIRA DA SILVA": [
+      {
+        "empresa": "FACO ENGENHARA",
+        "cnpj": "26761685000182",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE EDIFÍCIOS"
+      },
+      {
+        "empresa": "FACO ENGENHARA",
+        "cnpj": "26761685000182",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE FUNDAÇÕES"
+      },
+      {
+        "empresa": "FACO ENGENHARA",
+        "cnpj": "26761685000182",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE TERRAPLENAGEM"
+      },
+      {
+        "empresa": "FACO ENGENHARA",
+        "cnpj": "26761685000182",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE PREPARAÇÃO DO TERRENO NÃO ESPECIFICADOS ANTERIORMENTE"
+      },
+      {
+        "empresa": "FACO ENGENHARA",
+        "cnpj": "26761685000182",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE RODOVIAS E FERROVIAS"
+      }
+    ],
+    "HUGO LUIZ GALDINO DE SOUZA": [
+      {
+        "empresa": "FIBERMAIS",
+        "cnpj": "33984426000186",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE ESTAÇÕES E REDES DE TELECOMUNICAÇÕES"
+      },
+      {
+        "empresa": "FIBERMAIS",
+        "cnpj": "33984426000186",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇOS DE COMUNICAÇÃO MULTIMÍDIA - SCM"
+      },
+      {
+        "empresa": "FIBERMAIS",
+        "cnpj": "33984426000186",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "OUTRAS ATIVIDADES DE TELECOMUNICAÇÕES NÃO ESPECIFICADAS ANTERIORMENTE"
+      },
+      {
+        "empresa": "FIBERMAIS",
+        "cnpj": "33984426000186",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "PROVEDORES DE ACESSO ÀS REDES DE COMUNICAÇÕES"
+      }
+    ],
+    "JOSE ALBERTO MARTINS NOVAIS BARBOSA": [
+      {
+        "empresa": "ACQUAPURA",
+        "cnpj": "47354613000190",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTROS PRODUTOS DE METAL NÃO ESPECIFICADOS ANTERIORMENTE"
+      },
+      {
+        "empresa": "ACQUAPURA",
+        "cnpj": "47354613000190",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQ E EQUIP P/ SANEAMENTO BÁSICO E AMBIENTAL, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "ACQUAPURA",
+        "cnpj": "47354613000190",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTRAS MÁQUINAS E EQUIP DE USO GERAL N/ ESP ANT, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "ACQUAPURA",
+        "cnpj": "47354613000190",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ARTEFATOS DE MATERIAL PLÁSTICO PARA OUT USOS N/ ESP ANTERIORMENTE"
+      }
+    ],
+    "JOSE ALBERTO NOVAIS DA SILVA BARBOSA": [
+      {
+        "empresa": "ACQUAPURA",
+        "cnpj": "47354613000190",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTROS PRODUTOS DE METAL NÃO ESPECIFICADOS ANTERIORMENTE"
+      },
+      {
+        "empresa": "ACQUAPURA",
+        "cnpj": "47354613000190",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQ E EQUIP P/ SANEAMENTO BÁSICO E AMBIENTAL, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "ACQUAPURA",
+        "cnpj": "47354613000190",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTRAS MÁQUINAS E EQUIP DE USO GERAL N/ ESP ANT, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "ACQUAPURA",
+        "cnpj": "47354613000190",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ARTEFATOS DE MATERIAL PLÁSTICO PARA OUT USOS N/ ESP ANTERIORMENTE"
+      }
+    ],
+    "REJANE MARTINS NOVAIS BARBOSA": [
+      {
+        "empresa": "ACQUAPURA",
+        "cnpj": "47354613000190",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTROS PRODUTOS DE METAL NÃO ESPECIFICADOS ANTERIORMENTE"
+      },
+      {
+        "empresa": "ACQUAPURA",
+        "cnpj": "47354613000190",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQ E EQUIP P/ SANEAMENTO BÁSICO E AMBIENTAL, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "ACQUAPURA",
+        "cnpj": "47354613000190",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTRAS MÁQUINAS E EQUIP DE USO GERAL N/ ESP ANT, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "ACQUAPURA",
+        "cnpj": "47354613000190",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ARTEFATOS DE MATERIAL PLÁSTICO PARA OUT USOS N/ ESP ANTERIORMENTE"
+      }
+    ],
+    "EDSON ALVES DE SOUZA": [
+      {
+        "empresa": "TURBO CONNECTION NETWORK TELECOMUNICAÇÕES LTDA ME",
+        "cnpj": "28830856000103",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇOS DE COMUNICAÇÃO MULTIMÍDIA - SCM"
+      },
+      {
+        "empresa": "TURBO CONNECTION NETWORK TELECOMUNICAÇÕES LTDA ME",
+        "cnpj": "28830856000103",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "OPERADORAS DE TELEVISÃO POR ASSINATURA POR CABO"
+      },
+      {
+        "empresa": "TURBO CONNECTION NETWORK TELECOMUNICAÇÕES LTDA ME",
+        "cnpj": "28830856000103",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "PROVEDORES DE ACESSO ÀS REDES DE COMUNICAÇÕES"
+      },
+      {
+        "empresa": "TURBO CONNECTION NETWORK TELECOMUNICAÇÕES LTDA ME",
+        "cnpj": "28830856000103",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "PROVEDORES DE VOZ SOBRE PROTOCOLO INTERNET - VOIP"
+      }
+    ],
+    "CRISTIANE OLIVEIRA VERA CRUZ DE SOUZA": [
+      {
+        "empresa": "TURBO CONNECTION NETWORK TELECOMUNICAÇÕES LTDA ME",
+        "cnpj": "28830856000103",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇOS DE COMUNICAÇÃO MULTIMÍDIA - SCM"
+      },
+      {
+        "empresa": "TURBO CONNECTION NETWORK TELECOMUNICAÇÕES LTDA ME",
+        "cnpj": "28830856000103",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "OPERADORAS DE TELEVISÃO POR ASSINATURA POR CABO"
+      },
+      {
+        "empresa": "TURBO CONNECTION NETWORK TELECOMUNICAÇÕES LTDA ME",
+        "cnpj": "28830856000103",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "PROVEDORES DE ACESSO ÀS REDES DE COMUNICAÇÕES"
+      },
+      {
+        "empresa": "TURBO CONNECTION NETWORK TELECOMUNICAÇÕES LTDA ME",
+        "cnpj": "28830856000103",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "PROVEDORES DE VOZ SOBRE PROTOCOLO INTERNET - VOIP"
+      }
+    ],
+    "RODOLFO RODRIGO DA SILVA": [
+      {
+        "empresa": ".",
+        "cnpj": "26979890000119",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE EDIFÍCIOS"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "26979890000119",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE TERRAPLENAGEM"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "26979890000119",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV COLET DE PASSAG, S/ REG DE FRETAM, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "26979890000119",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE ENGENHARIA"
+      }
+    ],
+    "PEDRO ALEXANDRE DA SILVA": [
+      {
+        "empresa": ".",
+        "cnpj": "08194920000108",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE BISCOITOS E BOLACHAS"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "08194920000108",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MASSAS ALIMENTÍCIAS"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "08194920000108",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTROS PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "08194920000108",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE FARINHA DE MILHO E DERIVADOS, EXCETO ÓLEOS DE MILHO"
+      }
+    ],
+    "CLERISVALDO ALEXANDRE DA SILVA": [
+      {
+        "empresa": ".",
+        "cnpj": "08194920000108",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE BISCOITOS E BOLACHAS"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "08194920000108",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MASSAS ALIMENTÍCIAS"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "08194920000108",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTROS PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "08194920000108",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE FARINHA DE MILHO E DERIVADOS, EXCETO ÓLEOS DE MILHO"
+      }
+    ],
+    "LUCIA DE FATIMA OLIVEIRA PESSOA": [
+      {
+        "empresa": "FACIL LOG",
+        "cnpj": "12299805000167",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "FACIL LOG",
+        "cnpj": "12299805000167",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "CARGA E DESCARGA"
+      },
+      {
+        "empresa": "BR REFEICOES",
+        "cnpj": "18965980000122",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "CARGA E DESCARGA"
+      }
+    ],
+    "FLAVIO PATROCINIO GALDINO DE BRITO": [
+      {
+        "empresa": "REI QUIMICA",
+        "cnpj": "09084415000165",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE CLORO E ÁLCALIS"
+      },
+      {
+        "empresa": "REI QUIMICA",
+        "cnpj": "09084415000165",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE SABÕES E DETERGENTES SINTÉTICOS"
+      },
+      {
+        "empresa": "REI QUIMICA",
+        "cnpj": "09084415000165",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE PRODUTOS DE LIMPEZA E POLIMENTO"
+      }
+    ],
+    "HUGO LEONARDO SILVA DE NOBREGA": [
+      {
+        "empresa": "MAFRIO LOGISTICA",
+        "cnpj": "23315579000187",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "MAFRIO LOGISTICA",
+        "cnpj": "23315579000187",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "MAFRIO LOGISTICA",
+        "cnpj": "23315579000187",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "ORGANIZAÇÃO LOGÍSTICA DO TRANSPORTE DE CARGA"
+      }
+    ],
+    "GLAUDENILSON JOSE FRANCO BARBOSA": [
+      {
+        "empresa": "PEGADA DO ARRAIAL",
+        "cnpj": "35839171000193",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇO DE TRANSPORTE DE PASSAGEIROS - LOCAÇÃO DE AUTOMÓVEIS COM MOTORISTA"
+      },
+      {
+        "empresa": "PEGADA DO ARRAIAL",
+        "cnpj": "35839171000193",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "PEGADA DO ARRAIAL",
+        "cnpj": "35839171000193",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "CARGA E DESCARGA"
+      }
+    ],
+    "VALDERES FARIAS ALVES": [
+      {
+        "empresa": "NLT TRANSPORTES",
+        "cnpj": "14262561000173",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "NLT TRANSPORTES",
+        "cnpj": "14262561000173",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "NLT TRANSPORTES",
+        "cnpj": "14262561000173",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE PRODUTOS PERIGOSOS"
+      }
+    ],
+    "CRISTOVAO LEANDRO ALVES GOMES PESSOA": [
+      {
+        "empresa": "IRMAOS PESSOA TRANSPORTES",
+        "cnpj": "38316453000102",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "IRMAOS PESSOA TRANSPORTES",
+        "cnpj": "38316453000102",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "IRMAOS PESSOA TRANSPORTES",
+        "cnpj": "38316453000102",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE PRODUTOS PERIGOSOS"
+      }
+    ],
+    "RIVELINO PEREIRA CAMBUIN": [
+      {
+        "empresa": "RC FABRICACAO DE MAQUINAS E EQUIPAMENTOS LTDA",
+        "cnpj": "44259559000106",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE APARELHOS E EQUIPAMENTOS DE MEDIDA, TESTE E CONTROLE"
+      },
+      {
+        "empresa": "RC FABRICACAO DE MAQUINAS E EQUIPAMENTOS LTDA",
+        "cnpj": "44259559000106",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTRAS MÁQUINAS E EQUIP DE USO GERAL N/ ESP ANT, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "RC FABRICACAO DE MAQUINAS E EQUIPAMENTOS LTDA",
+        "cnpj": "44259559000106",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS P/ A INDÚSTRIA TÊXTIL, PEÇAS E ACESSÓRIOS"
+      }
+    ],
+    "MARCIA JOSEFA DA SILVA": [
+      {
+        "empresa": "KS FIBRA",
+        "cnpj": "34144858000141",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇOS DE COMUNICAÇÃO MULTIMÍDIA - SCM"
+      },
+      {
+        "empresa": "KS FIBRA",
+        "cnpj": "34144858000141",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES E DE EQUIPAMENTOS PERIFÉRICOS"
+      },
+      {
+        "empresa": "KS FIBRA",
+        "cnpj": "34144858000141",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "PROVEDORES DE ACESSO ÀS REDES DE COMUNICAÇÕES"
+      }
+    ],
+    "SAULO PAULO GOMES DA PAIXAO": [
+      {
+        "empresa": "SV SERVICOS",
+        "cnpj": "24382741000142",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "DEMOLIÇÃO DE EDIFÍCIOS E OUTRAS ESTRUTURAS"
+      },
+      {
+        "empresa": "SV SERVICOS",
+        "cnpj": "24382741000142",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "SV SERVICOS",
+        "cnpj": "24382741000142",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ARTIGOS DE SERRALHERIA, EXCETO ESQUADRIAS"
+      }
+    ],
+    "VALERIA DE LIMA VIANA": [
+      {
+        "empresa": "SV SERVICOS",
+        "cnpj": "24382741000142",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "DEMOLIÇÃO DE EDIFÍCIOS E OUTRAS ESTRUTURAS"
+      },
+      {
+        "empresa": "SV SERVICOS",
+        "cnpj": "24382741000142",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "SV SERVICOS",
+        "cnpj": "24382741000142",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ARTIGOS DE SERRALHERIA, EXCETO ESQUADRIAS"
+      }
+    ],
+    "MARIA DA CONCEICAO PEREIRA SANTOS": [
+      {
+        "empresa": "MAIS Q MASSA",
+        "cnpj": "05141711000108",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE BISCOITOS E BOLACHAS"
+      },
+      {
+        "empresa": "MAIS Q MASSA",
+        "cnpj": "05141711000108",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MASSAS ALIMENTÍCIAS"
+      },
+      {
+        "empresa": "MAIS Q MASSA",
+        "cnpj": "05141711000108",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "Fabricacao de produtos de panificacao industrial"
+      }
+    ],
+    "MARIA GABRIELLA MEIRELES DA SILVA": [
+      {
+        "empresa": "CLINICA CENTRAL",
+        "cnpj": "26246493000138",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE EXAMES COMPLEMENTARES"
+      },
+      {
+        "empresa": "CLINICA CENTRAL",
+        "cnpj": "26246493000138",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE PROCEDIMENTOS CIRÚRGICOS"
+      },
+      {
+        "empresa": "CLINICA CENTRAL",
+        "cnpj": "26246493000138",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE ODONTOLÓGICA"
+      }
+    ],
+    "MARIA JULIA MEIRELES SILVA": [
+      {
+        "empresa": "CLINICA CENTRAL",
+        "cnpj": "26246493000138",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE EXAMES COMPLEMENTARES"
+      },
+      {
+        "empresa": "CLINICA CENTRAL",
+        "cnpj": "26246493000138",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE PROCEDIMENTOS CIRÚRGICOS"
+      },
+      {
+        "empresa": "CLINICA CENTRAL",
+        "cnpj": "26246493000138",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE ODONTOLÓGICA"
+      }
+    ],
+    "EDVALDO ADRIANO CAETANO BRAGA": [
+      {
+        "empresa": "E A C BRAGA PARTICIPACOES - LTDA ME",
+        "cnpj": "19894932000153",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "E A C BRAGA PARTICIPACOES - LTDA ME",
+        "cnpj": "19894932000153",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "CARGA E DESCARGA"
+      },
+      {
+        "empresa": "E A C BRAGA PARTICIPACOES - LTDA ME",
+        "cnpj": "19894932000153",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇOS DE REBOQUE DE VEÍCULOS"
+      }
+    ],
+    "TACIANA GOMES BELO CAVALCANTI": [
+      {
+        "empresa": "TC MKT DIGITAL NA PRATICA",
+        "cnpj": "26917421000175",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "CONSTRUÇÃO DE EDIFÍCIOS"
+      },
+      {
+        "empresa": "TC MKT DIGITAL NA PRATICA",
+        "cnpj": "26917421000175",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OUTRAS OBRAS DE ACABAMENTO DA CONSTRUÇÃO"
+      },
+      {
+        "empresa": "TC MKT DIGITAL NA PRATICA",
+        "cnpj": "26917421000175",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO"
+      }
+    ],
+    "CARLOS ALBERTO REYES GANDRA": [
+      {
+        "empresa": "STERICYCLE",
+        "cnpj": "01568077000125",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INCORPORAÇÃO DE EMPREENDIMENTOS IMOBILIÁRIOS"
+      },
+      {
+        "empresa": "STERICYCLE",
+        "cnpj": "01568077000125",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "SERVIÇOS DE ENGENHARIA"
+      }
+    ],
+    "MARIA SONIA DE OLIVEIRA SILVA": [
+      {
+        "empresa": "FACIL LOG",
+        "cnpj": "12299805000167",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "FACIL LOG",
+        "cnpj": "12299805000167",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "CARGA E DESCARGA"
+      }
+    ],
+    "MARIA OLIVEIRA DAS GRACAS": [
+      {
+        "empresa": "FACIL LOG",
+        "cnpj": "12299805000167",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "FACIL LOG",
+        "cnpj": "12299805000167",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "CARGA E DESCARGA"
+      }
+    ],
+    "DUILIO CABRAL DA COSTA JUNIOR": [
+      {
+        "empresa": "TURBO LOG",
+        "cnpj": "48943763000100",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "TURBO LOG",
+        "cnpj": "48943763000100",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE PRODUTOS PERIGOSOS"
+      }
+    ],
+    "ANA TEREZA BEZERRA DE MELLO CABRAL DA COSTA": [
+      {
+        "empresa": "TURBO LOG",
+        "cnpj": "48943763000100",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "TURBO LOG",
+        "cnpj": "48943763000100",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE PRODUTOS PERIGOSOS"
+      }
+    ],
+    "JOSE JAILSON RODRIGUES JUNIOR": [
+      {
+        "empresa": "ASTEP-PE REBOQUE",
+        "cnpj": "45698066000135",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "ASTEP-PE REBOQUE",
+        "cnpj": "45698066000135",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇOS DE REBOQUE DE VEÍCULOS"
+      }
+    ],
+    "EDUARDO HENRIQUE ALCOFORADO COSTA": [
+      {
+        "empresa": "INTERBRASIL DISTRIBUICAO LTDA ME",
+        "cnpj": "69953388000141",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "INTERBRASIL DISTRIBUICAO LTDA ME",
+        "cnpj": "69953388000141",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      }
+    ],
+    "ANDREA ALCOFORADO COSTA GROSSI": [
+      {
+        "empresa": "INTERBRASIL DISTRIBUICAO LTDA ME",
+        "cnpj": "69953388000141",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "INTERBRASIL DISTRIBUICAO LTDA ME",
+        "cnpj": "69953388000141",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      }
+    ],
+    "ANDERSON ANTONIO DE SOUZA": [
+      {
+        "empresa": "INTERBRASIL DISTRIBUICAO LTDA ME",
+        "cnpj": "69953388000141",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "INTERBRASIL DISTRIBUICAO LTDA ME",
+        "cnpj": "69953388000141",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      }
+    ],
+    "FABIO VENCESLAU DE OLIVEIRA": [
+      {
+        "empresa": "SERRALHARIA PONTO FORTE",
+        "cnpj": "54164415000120",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ESQUADRIAS DE METAL"
+      },
+      {
+        "empresa": "SERRALHARIA PONTO FORTE",
+        "cnpj": "54164415000120",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OUTRAS OBRAS DE ACABAMENTO DA CONSTRUÇÃO"
+      }
+    ],
+    "CARLOS ANTONIO MARQUES DA SILVA JUNIOR": [
+      {
+        "empresa": "CJR COMERCIO E SERVICOS",
+        "cnpj": "31360402000120",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTRAS MÁQUINAS E EQUIP DE USO GERAL N/ ESP ANT, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "CJR COMERCIO E SERVICOS",
+        "cnpj": "31360402000120",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+      }
+    ],
+    "MAYCONJONE DE LIMA SANTOS": [
+      {
+        "empresa": "CJR COMERCIO E SERVICOS",
+        "cnpj": "31360402000120",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE OUTRAS MÁQUINAS E EQUIP DE USO GERAL N/ ESP ANT, PEÇAS E ACESSÓRIOS"
+      },
+      {
+        "empresa": "CJR COMERCIO E SERVICOS",
+        "cnpj": "31360402000120",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+      }
+    ],
+    "HENRIQUE JOSE DE PAULA NORONHA E MENEZES": [
+      {
+        "empresa": "CPA - COMPANHIA PERNAMBUCANA DE ARMAZENAGEM",
+        "cnpj": "27983403000154",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "CARGA E DESCARGA"
+      },
+      {
+        "empresa": "CPA - COMPANHIA PERNAMBUCANA DE ARMAZENAGEM",
+        "cnpj": "27983403000154",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "OPERADOR DE TRANSPORTE MULTIMODAL - OTM"
+      }
+    ],
+    "SILVIO SOUZA SILVA": [
+      {
+        "empresa": "ALUVID",
+        "cnpj": "13158783000188",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ESQUADRIAS DE METAL"
+      },
+      {
+        "empresa": "ALUVID",
+        "cnpj": "13158783000188",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQ E APAR DE REFRIG E VENTILA P/ USO IND E COM, PEÇAS E ACESSÓRIOS"
+      }
+    ],
+    "JULIANA NASCIMENTO DE SOUZA": [
+      {
+        "empresa": "ALUVID",
+        "cnpj": "13158783000188",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ESQUADRIAS DE METAL"
+      },
+      {
+        "empresa": "ALUVID",
+        "cnpj": "13158783000188",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQ E APAR DE REFRIG E VENTILA P/ USO IND E COM, PEÇAS E ACESSÓRIOS"
+      }
+    ],
+    "PAULO FERREIRA DA SILVA": [
+      {
+        "empresa": "ALUVID",
+        "cnpj": "13158783000188",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ESQUADRIAS DE METAL"
+      },
+      {
+        "empresa": "ALUVID",
+        "cnpj": "13158783000188",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQ E APAR DE REFRIG E VENTILA P/ USO IND E COM, PEÇAS E ACESSÓRIOS"
+      }
+    ],
+    "EWELON SANTOS DA SILVA": [
+      {
+        "empresa": "TROPICAL ALUMINIO",
+        "cnpj": "07595865000197",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ESQUADRIAS DE METAL"
+      },
+      {
+        "empresa": "TROPICAL ALUMINIO",
+        "cnpj": "07595865000197",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE MÁQ E APAR DE REFRIG E VENTILA P/ USO IND E COM, PEÇAS E ACESSÓRIOS"
+      }
+    ],
+    "JOABIL ANTONIO DA SILVA": [
+      {
+        "empresa": "GRAFICA J5",
+        "cnpj": "29977818000140",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE EMBALAGENS DE PAPEL"
+      },
+      {
+        "empresa": "GRAFICA J5",
+        "cnpj": "29977818000140",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES E DE EQUIPAMENTOS PERIFÉRICOS"
+      }
+    ],
+    "TAYLANE RAMOS DE LIMA": [
+      {
+        "empresa": "T RAMOS DE LIMA MERCADINHO LTDA",
+        "cnpj": "34892446000190",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "T RAMOS DE LIMA MERCADINHO LTDA",
+        "cnpj": "34892446000190",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "ORGANIZAÇÃO LOGÍSTICA DO TRANSPORTE DE CARGA"
+      }
+    ],
+    "ITALO BRUNO CAVALCANTI DE LIMA": [
+      {
+        "empresa": "GRUPO IP BRASIL TECHNOLOGY",
+        "cnpj": "31776888000182",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes"
+      },
+      {
+        "empresa": "GRUPO IP BRASIL TECHNOLOGY",
+        "cnpj": "31776888000182",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES E DE EQUIPAMENTOS PERIFÉRICOS"
+      }
+    ],
+    "ASENATE NASCIMENTO AUGUSTINHO DE LIMA": [
+      {
+        "empresa": "AVITECH SOLUCOES",
+        "cnpj": "31348669000100",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "Recarga de cartuchos para equipamentos de informatica"
+      },
+      {
+        "empresa": "AVITECH SOLUCOES",
+        "cnpj": "31348669000100",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES E DE EQUIPAMENTOS PERIFÉRICOS"
+      }
+    ],
+    "RUI RODRIGUES BELO": [
+      {
+        "empresa": "FARMACIA DO TRABALHADOR",
+        "cnpj": "46876573000184",
+        "grupo": "SAUDE",
+        "atividade": "SERVIÇOS DE VACINAÇÃO E IMUNIZAÇÃO HUMANA"
+      },
+      {
+        "empresa": "FARMACIA DO TRABALHADOR",
+        "cnpj": "46876573000184",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE NÃO ESPECIFICADAS ANTERIORMENTE"
+      }
+    ],
+    "MARCELLO DE ZAGOTTIS": [
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE NÃO ESPECIFICADAS ANTERIORMENTE"
+      }
+    ],
+    "FERNANDO KOZEL VARELA": [
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE NÃO ESPECIFICADAS ANTERIORMENTE"
+      }
+    ],
+    "RENATO CEPOLLINA RADUAN": [
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE NÃO ESPECIFICADAS ANTERIORMENTE"
+      }
+    ],
+    "ANTONIO CARLOS COELHO": [
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE NÃO ESPECIFICADAS ANTERIORMENTE"
+      }
+    ],
+    "MARIA SUSANA DE SOUZA": [
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE NÃO ESPECIFICADAS ANTERIORMENTE"
+      }
+    ],
+    "BRUNO WRIGHT PIPPONZI": [
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE NÃO ESPECIFICADAS ANTERIORMENTE"
+      }
+    ],
+    "FLAVIO DE MORAES CORREIA": [
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE NÃO ESPECIFICADAS ANTERIORMENTE"
+      }
+    ],
+    "MELISSA TEIXEIRA CABRAL": [
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE NÃO ESPECIFICADAS ANTERIORMENTE"
+      }
+    ],
+    "JULIANA LOPES MARQUES PAIXAO": [
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "LABORATÓRIOS CLÍNICOS"
+      },
+      {
+        "empresa": "RAIA DROGASIL S/A",
+        "cnpj": "61585865233920",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE NÃO ESPECIFICADAS ANTERIORMENTE"
+      }
+    ],
+    "JOSE LUCIANO SALES CORDEIRO DA SILVA": [
+      {
+        "empresa": "MINERADORA CANHOTINHO LTDA",
+        "cnpj": "02669080000106",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ÁGUAS ENVASADAS"
+      },
+      {
+        "empresa": ".",
+        "cnpj": "18650053000113",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "FABRICAÇÃO DE ÁGUAS ENVASADAS"
+      }
+    ],
+    "JAILSON DE ASSIS BESERRA": [
+      {
+        "empresa": "JRB TECNOLOGIA DA INFORMACAO LTDA - ME",
+        "cnpj": "17422952000104",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "SUPORTE TECNICO, MANUTENCAO E OUTROS SERVICOS EM TECNOLOGIA DA INFORMACAO"
+      },
+      {
+        "empresa": "JRB TECNOLOGIA DA INFORMACAO LTDA - ME",
+        "cnpj": "17422952000104",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES E DE EQUIPAMENTOS PERIFÉRICOS"
+      }
+    ],
+    "CLEITON DA SILVA MORAIS": [
+      {
+        "empresa": "TRANSFINS TRANSPORTADORA LTDA",
+        "cnpj": "08646970000170",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      },
+      {
+        "empresa": "TRANSFINS TRANSPORTADORA LTDA",
+        "cnpj": "08646970000170",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE MUDANÇAS"
+      }
+    ],
+    "ANTONIO ROMUALDO SILVA JUNIOR": [
+      {
+        "empresa": "ARTE SUPORTE TECNICO EM TECNOLOGIA DA INFORMACAO LTDA -",
+        "cnpj": "17156123000119",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO"
+      },
+      {
+        "empresa": "ARTE SUPORTE TECNICO EM TECNOLOGIA DA INFORMACAO LTDA -",
+        "cnpj": "17156123000119",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "SUPORTE TECNICO, MANUTENCAO E OUTROS SERVICOS EM TECNOLOGIA DA INFORMACAO"
+      }
+    ],
+    "RHAFNE CAROLINE TERTULIANO DA SILVA": [
+      {
+        "empresa": "RCTS SERVICOS MEDICOS LTDA",
+        "cnpj": "37192842000100",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS P/ REALIZ DE EXAMES COMPLEMENTARES"
+      },
+      {
+        "empresa": "RCTS SERVICOS MEDICOS LTDA",
+        "cnpj": "37192842000100",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS"
+      }
+    ],
+    "RAFAEL BELARMINO DE MEDEIROS": [
+      {
+        "empresa": "RAFAEL MEDEIROS SISTEMAS LTDA",
+        "cnpj": "49488344000180",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "Desenvolvimento de programas de computador sob encomenda"
+      },
+      {
+        "empresa": "RAFAEL MEDEIROS SISTEMAS LTDA",
+        "cnpj": "49488344000180",
+        "grupo": "SERVICOS DE INFORMATICA",
+        "atividade": "SUPORTE TECNICO, MANUTENCAO E OUTROS SERVICOS EM TECNOLOGIA DA INFORMACAO"
+      }
+    ],
+    "DAVID RANGEL REIS": [
+      {
+        "empresa": "ED TRANSPORTE",
+        "cnpj": "22589258000108",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PROD PERIGOSOS E MUDANÇAS, MUNICIPAL"
+      },
+      {
+        "empresa": "ED TRANSPORTE",
+        "cnpj": "22589258000108",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "TRANSP RODOV DE CARGA, EXC PROD PERIG E MUDAN, INTERMUN, INTEREST E INTERNACIONAL"
+      }
+    ],
+    "GERSON SOARES DA SILVA": [
+      {
+        "empresa": "VGSOARES ACÚSTICA",
+        "cnpj": "52718829000128",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OBRAS DE ACABAMENTO EM GESSO E ESTUQUE"
+      },
+      {
+        "empresa": "VGSOARES ACÚSTICA",
+        "cnpj": "52718829000128",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "OUTRAS OBRAS DE ACABAMENTO DA CONSTRUÇÃO"
+      }
+    ],
+    "EVERTON DE ARAUJO ARRUDA": [
+      {
+        "empresa": "CENTURION INSTALACOES",
+        "cnpj": "41824279000105",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES DE SISTEMA DE PREVENÇÃO CONTRA INCÊNDIO"
+      },
+      {
+        "empresa": "CENTURION INSTALACOES",
+        "cnpj": "41824279000105",
+        "grupo": "CONSTRUCAO CIVIL",
+        "atividade": "INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+      }
+    ],
+    "NEUMA MARIA DE SIQUEIRA CAMPOS": [
+      {
+        "empresa": "VELAS SANTA TEREZINHA",
+        "cnpj": "27427254000147",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "Fabricacao de velas,  inclusive decorativas"
+      },
+      {
+        "empresa": "WN VELAS",
+        "cnpj": "36116116000138",
+        "grupo": "INDUSTRIA GERAL",
+        "atividade": "Fabricacao de velas,  inclusive decorativas"
+      }
+    ],
+    "FABIANA DA SILVA SANTANA": [
+      {
+        "empresa": "CONSULTORIO ODONTOLOGICO DRA FABIANA DA SILVA SANTANA",
+        "cnpj": "46359737000104",
+        "grupo": "SAUDE",
+        "atividade": "SERVIÇOS DE PRÓTESE DENTÁRIA"
+      },
+      {
+        "empresa": "CONSULTORIO ODONTOLOGICO DRA FABIANA DA SILVA SANTANA",
+        "cnpj": "46359737000104",
+        "grupo": "SAUDE",
+        "atividade": "ATIVIDADE ODONTOLÓGICA"
+      }
+    ],
+    "RODRIGO SILVA DO NASCIMENTO": [
+      {
+        "empresa": "FIBRA LIVE TELECOM",
+        "cnpj": "33186773000163",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇOS DE COMUNICAÇÃO MULTIMÍDIA - SCM"
+      },
+      {
+        "empresa": "FIBRA LIVE TELECOM",
+        "cnpj": "33186773000163",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "PROVEDORES DE ACESSO ÀS REDES DE COMUNICAÇÕES"
+      }
+    ],
+    "CHARLES ANDERSON GOMES DOS SANTOS": [
+      {
+        "empresa": "FIBRA LIVE TELECOM",
+        "cnpj": "33186773000163",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "SERVIÇOS DE COMUNICAÇÃO MULTIMÍDIA - SCM"
+      },
+      {
+        "empresa": "FIBRA LIVE TELECOM",
+        "cnpj": "33186773000163",
+        "grupo": "TRANSPORTE E COMUNICACAO",
+        "atividade": "PROVEDORES DE ACESSO ÀS REDES DE COMUNICAÇÕES"
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "metadados": {
+    "cabecalho": {
+      "titulo": "Empresa Ativas da Cidade do Recife",
+      "descricao": "Descrição das Empresas Ativas da Cidade do Recife com os seus respectivos endereços e com os suas atividades, que estão inscritas como contribuinte no Município do Recife",
+      "categoria_vcge": "http://vocab.e.gov.br/2011/03/vcge#registro-comercial",
+      "fonte_dados": "http://dados.recife.pe.gov.br",
+      "licenca": "Open Database License (ODbL)",
+      "responsavel_dados": "Secretaria de Finanças",
+      "responsavel_disponibilizar": "Emprel",
+      "frequencia_atualizacao": "Mensal",
+      "endereco_dataset": "http://dados.recife.pe.gov.br/dataset/empresas-da-cidade-do-recife",
+      "status": "ativo",
+      "endereco_dataset_substituto": "",
+      "granularidade": "Estes dados Contém os dados das empresas por CNAE",
+      "etiquetas": "Atividade Comercial, Empresas"
+    },
+    "recursos": [
+      {
+        "identificador": "http://dados.recife.pe.gov.br/dataset/empresas-da-cidade-do-recife/resource/87fc9349-312c-4dcb-a311-1c97365bd9f5",
+        "titulo": "Empresa Ativas da Cidade do Recife",
+        "formato": "csv",
+        "descricao": "Descrição das Empresas Ativas da Cidade do Recife com os seus respectivos endereços e com os suas atividades, que estão inscritas como contribuinte no Município do Recife"
+      }
+    ],
+    "campos": [
+      {
+        "codigo": "cod_empresa",
+        "descricao": "Código da Empresa critptografado",
+        "tipo": "char",
+        "tamanho": 20,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "numero",
+        "descricao": "Número da Empresa ",
+        "tipo": "char",
+        "tamanho": 20,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "razao_social",
+        "descricao": "Razão Social da Empresa",
+        "tipo": "Char",
+        "tamanho": 55,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "nome_fantasia",
+        "descricao": "Nome fantasia da Empresa",
+        "tipo": "Char",
+        "tamanho": 100,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "cod_logradouro",
+        "descricao": "Código Logradouro que identifica as Vias de Circulação do espaço urbano do Recife",
+        "tipo": "Num",
+        "tamanho": 16,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "nome_logradouro",
+        "descricao": "Nome do Logradouro que identifica as vias de Circulação",
+        "tipo": "Char",
+        "tamanho": 120,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "num_logradouro",
+        "descricao": "Número do Logradouro",
+        "tipo": "Num",
+        "tamanho": 9,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "cod_bairro",
+        "descricao": "Código do Bairro na base de empresas",
+        "tipo": "Num",
+        "tamanho": 9,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "nome_bairro",
+        "descricao": "Bairro da cidade do Recife",
+        "tipo": "Char",
+        "tamanho": 100,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "situacao_empresa",
+        "descricao": "situacao da empresa",
+        "tipo": "Char",
+        "tamanho": 10,
+        "valores_permitidos": "ATIVO"
+      },
+      {
+        "codigo": "data_inicio",
+        "descricao": "Data inicio da empresa",
+        "tipo": "date",
+        "tamanho": 10,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "data_encerramento",
+        "descricao": "Data encerramento da empresa",
+        "tipo": "date",
+        "tamanho": 10,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "cod_grupo",
+        "descricao": "Código do grupo ao qual pertence a atividade principal da empresa",
+        "tipo": "NUM",
+        "tamanho":"",
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "nome_grupo",
+        "descricao": "Nome do grupo ao qual pertence a atividade principal da empresa",
+        "tipo": "Char",
+        "tamanho":50,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "cnae",
+        "descricao": "Código Nacional de Atividade Econômica",
+        "tipo": "NUM",
+        "tamanho":10,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "desc_atividade",
+        "descricao": "Descrição da Atividade Econômica",
+        "tipo": "Char",
+        "tamanho": 95,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "atividade_principal",
+        "descricao": "é a principal atividade desempenhada pela empresa?",
+        "tipo": "Char",
+        "tamanho": 1,
+        "valores_permitidos": "S-Sim ou N -Não"
+      },
+      {
+        "codigo": "atividade_vig_sanitaria",
+        "descricao": "é a principal atividade da empresa que exige vigilância sanitária do município?",
+        "tipo": "Char",
+        "tamanho": 1,
+        "valores_permitidos": "S-Sim ou N -Não"
+      },
+      {
+        "codigo": "atividade_predominante",
+        "descricao": "é a principal atividade da empresa que é prestadora de serviço?",
+        "tipo": "Char",
+        "tamanho": 1,
+        "valores_permitidos": "S-Sim ou N -Não"
+      },
+      {
+        "codigo": "incomodo",
+        "descricao": "Atividade Potencialmente Geradora de Incômodo",
+        "tipo": "Char",
+        "tamanho": 1,
+        "valores_permitidos": "S-Sim ou N -Não"
+      },
+      {
+        "codigo": "latitude",
+        "descricao": "Coordenada geografica",
+        "tipo": "num",
+        "tamanho": 20,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "longitude",
+        "descricao": "Coordenada geografica",
+        "tipo": "num",
+        "tamanho": 20,
+        "valores_permitidos": ""
+      }
+    ]
+  }
+}

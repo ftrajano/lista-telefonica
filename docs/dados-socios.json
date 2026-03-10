@@ -1,0 +1,674 @@
+[
+  {
+    "nome": "LUCAS VIANA LUZ",
+    "qual": "49-Sócio-Administrador",
+    "empresa_nome": "Instituto Luz",
+    "empresa_cnpj": "27664332000127",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "PAULO SERGIO GOMES JUNIOR",
+    "qual": "22-Sócio",
+    "empresa_nome": "Instituto Luz",
+    "empresa_cnpj": "27664332000127",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "DANIELA LINS DE CARVALHO GOMES",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Dra. Daniela Gomes - Odontologia Humanizada",
+    "empresa_cnpj": "44558461000150",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "LEANDRO FREITAS DE MORAES",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Nest Corretora de Seguros",
+    "empresa_cnpj": "28211389000133",
+    "empresa_bairro": "Santo Antônio",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "LUIZ ANTONIO LIMA CADENA DE MELO",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Nest Corretora de Seguros",
+    "empresa_cnpj": "28211389000133",
+    "empresa_bairro": "Santo Antônio",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "HERMANO SILVESTRE RIBEIRO CALABREZ",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "PLUS SORRISO",
+    "empresa_cnpj": "12977671000196",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "A J PARTICIPACOES LTDA",
+    "qual": "Sócio",
+    "empresa_nome": "Hospital Jayme da Fonte",
+    "empresa_cnpj": "11452240000143",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "ALEXANDRE CALABRIA DA FONTE",
+    "qual": "Sócio",
+    "empresa_nome": "Hospital Jayme da Fonte",
+    "empresa_cnpj": "11452240000143",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "ANA DE FATIMA DA FONTE WANDERLEY GOMES",
+    "qual": "Sócio",
+    "empresa_nome": "Hospital Jayme da Fonte",
+    "empresa_cnpj": "11452240000143",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "ANTONIO JAYME MEIRA DA FONTE",
+    "qual": "Administrador",
+    "empresa_nome": "Hospital Jayme da Fonte",
+    "empresa_cnpj": "11452240000143",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "EMF HOLDING LTDA.",
+    "qual": "Sócio",
+    "empresa_nome": "Hospital Jayme da Fonte",
+    "empresa_cnpj": "11452240000143",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "EVANDRO MEIRA DA FONTE",
+    "qual": "Administrador",
+    "empresa_nome": "Hospital Jayme da Fonte",
+    "empresa_cnpj": "11452240000143",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "IGOR CALABRIA DA FONTE",
+    "qual": "Sócio",
+    "empresa_nome": "Hospital Jayme da Fonte",
+    "empresa_cnpj": "11452240000143",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "JAYME WANDERLEY DA FONTE NETO",
+    "qual": "Sócio",
+    "empresa_nome": "Hospital Jayme da Fonte",
+    "empresa_cnpj": "11452240000143",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "JOSE MEIRA DA FONTE",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Hospital Jayme da Fonte",
+    "empresa_cnpj": "11452240000143",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "MARIA AUXILIADORA DA FONTE MACIEL",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Hospital Jayme da Fonte",
+    "empresa_cnpj": "11452240000143",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "MARIA DO CARMO DA FONTE GONCALVES",
+    "qual": "Sócio",
+    "empresa_nome": "Hospital Jayme da Fonte",
+    "empresa_cnpj": "11452240000143",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "GILBERTO TADEU OLIVEIRA DE NOVAES",
+    "qual": "49-Sócio-Administrador",
+    "empresa_nome": "Ultra Recife",
+    "empresa_cnpj": "24632137000127",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "UBIRATAN PERI LIRA MARQUES",
+    "qual": "Presidente",
+    "empresa_nome": "Astra",
+    "empresa_cnpj": "11217320000114",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "MAYRA FALCAO FERNANDES",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Viva",
+    "empresa_cnpj": "54848124000150",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "FELIPE MARQUES DA SILVA",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "F MARQUES CONSULTORIA",
+    "empresa_cnpj": "54681706000195",
+    "empresa_bairro": "Madalena",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "MARIA EDUARDA CAVALCANTI LEAL DE LEMOS MACHADO",
+    "qual": "49-Sócio-Administrador",
+    "empresa_nome": "Hey Mama",
+    "empresa_cnpj": "30087764000127",
+    "empresa_bairro": "Encruzilhada",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "JULIANA GUIMARAES DE MENDONCA",
+    "qual": "Sócio",
+    "empresa_nome": "Allergo Centro",
+    "empresa_cnpj": "03695479000116",
+    "empresa_bairro": "Encruzilhada",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "MILTON MARTINS CASTRO",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Allergo Centro",
+    "empresa_cnpj": "03695479000116",
+    "empresa_bairro": "Encruzilhada",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "ROBERTA ALMEIDA CASTRO ARAUJO",
+    "qual": "Sócio",
+    "empresa_nome": "Allergo Centro",
+    "empresa_cnpj": "03695479000116",
+    "empresa_bairro": "Encruzilhada",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "MARIA EDUARDA CAVALCANTI LEAL DE LEMOS MACHADO",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Hey Mama",
+    "empresa_cnpj": "30087764000127",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "JULIANA GUIMARAES DE MENDONCA",
+    "qual": "Sócio",
+    "empresa_nome": "Allergo Centro",
+    "empresa_cnpj": "03695479000116",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "MILTON MARTINS CASTRO",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Allergo Centro",
+    "empresa_cnpj": "03695479000116",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "ROBERTA ALMEIDA CASTRO ARAUJO",
+    "qual": "Sócio",
+    "empresa_nome": "Allergo Centro",
+    "empresa_cnpj": "03695479000116",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "saude"
+  },
+  {
+    "nome": "MIRELLA BARROS ABAGE",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Fammiliare",
+    "empresa_cnpj": "45393748000130",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "ROBERTA NUNES DE SOUSA",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Fammiliare",
+    "empresa_cnpj": "45393748000130",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "CESAR JOSE SILVA SALES",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Sales & Trindade Advogados Associados",
+    "empresa_cnpj": "42655546000120",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "VICTOR LAPORTE DE ALENCAR TRINDADE",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Sales & Trindade Advogados Associados",
+    "empresa_cnpj": "42655546000120",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "ANDREZA MARIA FLORENCIO LIMA SORIANO",
+    "qual": "Sócio",
+    "empresa_nome": "Soriano Advogados",
+    "empresa_cnpj": "04440206000193",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "RICARDO PEDROSA SORIANO DE OLIVEIRA",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Soriano Advogados",
+    "empresa_cnpj": "04440206000193",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "DANIELA SINDONI FELICIANO DA SILVA",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Fam Gondim",
+    "empresa_cnpj": "05753746000190",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "FLAVIA GUIMARAES DE AGUIAR E SOUZA",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Fam Gondim",
+    "empresa_cnpj": "05753746000190",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "JESSICA MARIA VELLOSO COSTA",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Fam Gondim",
+    "empresa_cnpj": "05753746000190",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "JOAO PEDRO MOURA SILVA DE OLIVEIRA",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Fam Gondim",
+    "empresa_cnpj": "05753746000190",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "LARISSA BARROS CALADO",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Fam Gondim",
+    "empresa_cnpj": "05753746000190",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "LEANDRO VICTOR SOBREIRA MELQUIADES DE LIMA",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Fam Gondim",
+    "empresa_cnpj": "05753746000190",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "LUCIANA COSTA ANUNCIACAO CUNHA",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Fam Gondim",
+    "empresa_cnpj": "05753746000190",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "MARCIO FAM GONDIM",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Fam Gondim",
+    "empresa_cnpj": "05753746000190",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "MARIA SOFIA CESAR CORREIA DE FARIAS",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Fam Gondim",
+    "empresa_cnpj": "05753746000190",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "RAFAEL AMORIM SARUBBI",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Fam Gondim",
+    "empresa_cnpj": "05753746000190",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "RODRIGO MEDEIROS LEAL",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Fam Gondim",
+    "empresa_cnpj": "05753746000190",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "TITO ANDRE COLLIGNON BERNARDES",
+    "qual": "Titular Pessoa Física Residente ou Domiciliado no Brasil",
+    "empresa_nome": "Collignon Sociedade Individual de Advocacia",
+    "empresa_cnpj": "48850963000100",
+    "empresa_bairro": "Santo Antônio",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "FABIO DE OLIVEIRA LIMA",
+    "qual": "49-Sócio-Administrador",
+    "empresa_nome": "Ivo Barboza & Advogados Associados",
+    "empresa_cnpj": "03551928000152",
+    "empresa_bairro": "Santo Antônio",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "GLAUCIO MANOEL DE LIMA BARBOSA",
+    "qual": "49-Sócio-Administrador",
+    "empresa_nome": "Ivo Barboza & Advogados Associados",
+    "empresa_cnpj": "03551928000152",
+    "empresa_bairro": "Santo Antônio",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "IVO DE LIMA BARBOZA",
+    "qual": "52-Sócio com Capital",
+    "empresa_nome": "Ivo Barboza & Advogados Associados",
+    "empresa_cnpj": "03551928000152",
+    "empresa_bairro": "Santo Antônio",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "IVO DE OLIVEIRA LIMA",
+    "qual": "49-Sócio-Administrador",
+    "empresa_nome": "Ivo Barboza & Advogados Associados",
+    "empresa_cnpj": "03551928000152",
+    "empresa_bairro": "Santo Antônio",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "ALEXANDRE DE ARAUJO ALBUQUERQUE",
+    "qual": "49-Sócio-Administrador",
+    "empresa_nome": "Ivo Barboza & Advogados Associados",
+    "empresa_cnpj": "03551928000152",
+    "empresa_bairro": "Santo Antônio",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "FERNANDO DE OLIVEIRA LIMA",
+    "qual": "49-Sócio-Administrador",
+    "empresa_nome": "Ivo Barboza & Advogados Associados",
+    "empresa_cnpj": "03551928000152",
+    "empresa_bairro": "Santo Antônio",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "GLEICY MICHELLA DE SOUZA LIMA TISO",
+    "qual": "49-Sócio-Administrador",
+    "empresa_nome": "Ivo Barboza & Advogados Associados",
+    "empresa_cnpj": "03551928000152",
+    "empresa_bairro": "Santo Antônio",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "LEONIDAS SIQUEIRA DE ANDRADE",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Andrade & Siqueira Advogados",
+    "empresa_cnpj": "54458225000115",
+    "empresa_bairro": "São José",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "LUIZ ANTONIO SIQUEIRA DE ANDRADE PEREIRA",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Andrade & Siqueira Advogados",
+    "empresa_cnpj": "54458225000115",
+    "empresa_bairro": "São José",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "KATIA SEMIRAMIS FERRAZ TEIXEIRA",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Ruth Ferraz Advogados Associados",
+    "empresa_cnpj": "09634169000178",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "MARIA RUTH FERRAZ TEIXEIRA",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Ruth Ferraz Advogados Associados",
+    "empresa_cnpj": "09634169000178",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "TULIO FERRAZ TEIXEIRA DE BARROS",
+    "qual": "Sócio com Capital",
+    "empresa_nome": "Ruth Ferraz Advogados Associados",
+    "empresa_cnpj": "09634169000178",
+    "empresa_bairro": "Santo Amaro",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "DIEGO REGO DA SILVA BARACHO",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Simetria Fiscal",
+    "empresa_cnpj": "34837244000145",
+    "empresa_bairro": "Encruzilhada",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "IGOR SOARES NEVES",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Simetria Fiscal",
+    "empresa_cnpj": "34837244000145",
+    "empresa_bairro": "Encruzilhada",
+    "empresa_categoria": "direito"
+  },
+  {
+    "nome": "MARCOS FERNANDO DE OLIVEIRA VASCONCELOS",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "V Consultoria Contabil",
+    "empresa_cnpj": "08450259000146",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "RAFAEL AQUINO DE LEMOS VASCONCELOS",
+    "qual": "Sócio",
+    "empresa_nome": "V Consultoria Contabil",
+    "empresa_cnpj": "08450259000146",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "ANDRE RICARDO CHAVES LEAO",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Inovamed Contabilidade",
+    "empresa_cnpj": "40398735000130",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "BRUNO VIEIRA FERNANDES PINHEIRO",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Inovamed Contabilidade",
+    "empresa_cnpj": "40398735000130",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "GUILHERME TRINDADE HENRIQUES BEZERRA CAVALCANTI",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Inovamed Contabilidade",
+    "empresa_cnpj": "40398735000130",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "JOSE JACKSON ROZENO",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Inovamed Contabilidade",
+    "empresa_cnpj": "40398735000130",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "ARTHUR AUGUSTO DA SILVA FRANCA",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Gave Consulting",
+    "empresa_cnpj": "35530404000171",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "WESLEY JONES DO NASCIMENTO",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Gave Consulting",
+    "empresa_cnpj": "35530404000171",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "DANIEL VIEIRA DE OLIVEIRA",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "SAFE Contadores",
+    "empresa_cnpj": "18479803000136",
+    "empresa_bairro": "Graças",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "RODRIGO AFFONSO FERREIRA DE AMORIM",
+    "qual": "22-Sócio",
+    "empresa_nome": "Facon",
+    "empresa_cnpj": "24565622000125",
+    "empresa_bairro": "Ibura",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "FAENGE EMPREENDIMENTOS LTDA",
+    "qual": "22-Sócio",
+    "empresa_nome": "Facon",
+    "empresa_cnpj": "24565622000125",
+    "empresa_bairro": "Ibura",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "FERNANDO HENRIQUE AFFONSO FERREIRA DE AMORIM",
+    "qual": "05-Administrador",
+    "empresa_nome": "Facon",
+    "empresa_cnpj": "24565622000125",
+    "empresa_bairro": "Ibura",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "JOSE ICARO CORREIA BALBINO",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "BALTRI SUCESSO EMPRESARIAL",
+    "empresa_cnpj": "37342996000123",
+    "empresa_bairro": "Ibura",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "HEMILLY RAYANE PEREIRA DE SOUZA",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Hemilly Souza Soluções Contábeis LTDA",
+    "empresa_cnpj": "43681593000101",
+    "empresa_bairro": "Santo Antônio",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "EDIVANIA RODRIGUES DE AGUIAR",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Audicont",
+    "empresa_cnpj": "02566483000111",
+    "empresa_bairro": "São José",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "MARIA JOSE RODRIGUES NUNES",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Audicont",
+    "empresa_cnpj": "02566483000111",
+    "empresa_bairro": "São José",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "SANDRO ROBERTO DE AGUIAR",
+    "qual": "Sócio",
+    "empresa_nome": "Audicont",
+    "empresa_cnpj": "02566483000111",
+    "empresa_bairro": "São José",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "DIEGO REGO DA SILVA BARACHO",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Simetria Fiscal",
+    "empresa_cnpj": "34837244000145",
+    "empresa_bairro": "Encruzilhada",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "IGOR SOARES NEVES",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Simetria Fiscal",
+    "empresa_cnpj": "34837244000145",
+    "empresa_bairro": "Encruzilhada",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "JOSE AUGUSTO FEITOSA GOMES DE FREITAS",
+    "qual": "49-Sócio-Administrador",
+    "empresa_nome": "Satierf Contadores Associados S/S",
+    "empresa_cnpj": "26174365000126",
+    "empresa_bairro": "Encruzilhada",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "CLEITON GOMES DA SILVA",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Monetizar Contabilidade",
+    "empresa_cnpj": "26311405000134",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "GILMAR RODRIGO MARINHO SALGUEIRO ACIOLI",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "AcerteCont",
+    "empresa_cnpj": "27060374000159",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "contabilidade"
+  },
+  {
+    "nome": "JOSE AUGUSTO FEITOSA GOMES DE FREITAS",
+    "qual": "Sócio-Administrador",
+    "empresa_nome": "Satierf Contadores Associados S/S",
+    "empresa_cnpj": "26174365000126",
+    "empresa_bairro": "Aflitos",
+    "empresa_categoria": "contabilidade"
+  }
+]
