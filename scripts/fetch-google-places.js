@@ -1,7 +1,12 @@
 const https = require('https');
+require('dotenv').config();
 
-// API Key
-const API_KEY = 'AIzaSyCd_JNSDNtIe2hBzsKPQrEE5fn9h1gIOWc';
+// API Key via variável de ambiente
+const API_KEY = process.env.GOOGLE_MAPS_API_KEY;
+if (!API_KEY) {
+  console.error('Erro: defina a variável de ambiente GOOGLE_MAPS_API_KEY');
+  process.exit(1);
+}
 
 // Coordenadas dos bairros do Recife (lat, lng, raio em metros)
 const bairros = {
